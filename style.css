@@ -65,9 +65,6 @@ blockquote {
     margin: 0 auto 50px auto;
     text-align: left;
 }
-.tribute-info {
-    text-align: justify;
-}
 @media (max-width:720px) {
     .img-div {
         padding: 50px;
