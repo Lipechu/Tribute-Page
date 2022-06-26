@@ -53,7 +53,7 @@ img {
 ul {
     max-width: 550px;
     margin: 0 auto 50px auto;
-    text-align: left;
+    text-align: justify;
     line-height: 1.6;
 }
 li {
@@ -64,6 +64,9 @@ blockquote {
     max-width: 545px;
     margin: 0 auto 50px auto;
     text-align: left;
+}
+.tribute-info {
+    text-align: justify;
 }
 @media (max-width:720px) {
     .img-div {
